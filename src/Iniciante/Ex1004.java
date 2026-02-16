@@ -7,7 +7,7 @@ public class Ex1004 {
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         int B = sc.nextInt();
-        int PROD  = A + B;
+        int PROD  = A * B;
 
         System.out.println("PROD = " + PROD );
 
